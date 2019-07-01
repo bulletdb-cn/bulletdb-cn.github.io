@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>http://www.bulletdb.cn/help</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/en/help" /> </url>
+<url> <loc>http://www.bulletdb.cn/index</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/en/index" /> </url>
+<url> <loc>http://www.bulletdb.cn/users</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/en/users" /> </url>
+<url> <loc>http://www.bulletdb.cn/blog/2019/07/01/new-version-1.0.0.1298</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
+<url> <loc>http://www.bulletdb.cn/docs/c_api_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/c_api_doc" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/create_index_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/create_index_doc" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/create_table_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/create_table_doc" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/doc1</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/doc1" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/doc2</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/doc2" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/doc3</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/doc3" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/doc4</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/doc4" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/doc5</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/doc5" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/field_type_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/field_type_doc" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/insert_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/insert_doc" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/lock_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/lock_doc" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/more_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/more_doc" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/python_api_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/python_api_doc" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/select_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/select_doc" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/server_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/server_doc" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/shell_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/shell_doc" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/functions_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/functions_doc" /> </url>
+<url> <loc>http://www.bulletdb.cn/docs/transaction_doc</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="http://www.bulletdb.cn/docs/transaction_doc" /> </url>
+</urlset>
