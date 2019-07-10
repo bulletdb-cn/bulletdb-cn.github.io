@@ -4,7 +4,7 @@
         <title>BulletDB - A Fast Relational Database System Blog</title>
         <link>http://www.bulletdb.cn/blog</link>
         <description>The best place to stay up-to-date with the latest BulletDB - A Fast Relational Database System news and events.</description>
-        <lastBuildDate>Mon, 01 Jul 2019 06:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2019 06:00:00 GMT</lastBuildDate>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <generator>Feed for Node.js</generator>
         <image>
@@ -13,6 +13,13 @@
             <link>http://www.bulletdb.cn/blog</link>
         </image>
         <copyright>Copyright © 2019 深圳正一科技</copyright>
+        <item>
+            <title><![CDATA[Version 1.0.0.1384 Released]]></title>
+            <link>http://www.bulletdb.cn/blog/2019/07/10/new-version-1.0.0.1384.html</link>
+            <guid>http://www.bulletdb.cn/blog/2019/07/10/new-version-1.0.0.1384.html</guid>
+            <pubDate>Wed, 10 Jul 2019 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>BulletDB 1.0.0.1384 Released.</p> <ul> <li>Optimize create index.</li> <li>Fix null value related bugs.</li> </ul> ]]></description>
+        </item>
         <item>
             <title><![CDATA[Version 1.0.0.1298 Released]]></title>
             <link>http://www.bulletdb.cn/blog/2019/07/01/new-version-1.0.0.1298.html</link>

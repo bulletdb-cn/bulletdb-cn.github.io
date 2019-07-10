@@ -2,12 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.bulletdb.cn/blog</id>
     <title>BulletDB - A Fast Relational Database System Blog</title>
-    <updated>2019-07-01T06:00:00Z</updated>
+    <updated>2019-07-10T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
     <link rel="alternate" href="http://www.bulletdb.cn/blog"/>
     <subtitle>The best place to stay up-to-date with the latest BulletDB - A Fast Relational Database System news and events.</subtitle>
     <logo>http://www.bulletdb.cn/undefined</logo>
     <rights>Copyright © 2019 深圳正一科技</rights>
+    <entry>
+        <title type="html"><![CDATA[Version 1.0.0.1384 Released]]></title>
+        <id>http://www.bulletdb.cn/blog/2019/07/10/new-version-1.0.0.1384.html</id>
+        <link href="http://www.bulletdb.cn/blog/2019/07/10/new-version-1.0.0.1384.html">
+        </link>
+        <updated>2019-07-10T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>BulletDB 1.0.0.1384 Released.</p> <ul> <li>Optimize create index.</li> <li>Fix null value related bugs.</li> </ul> ]]></summary>
+        <author>
+            <name>administrator</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Version 1.0.0.1298 Released]]></title>
         <id>http://www.bulletdb.cn/blog/2019/07/01/new-version-1.0.0.1298.html</id>
